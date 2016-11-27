@@ -1,0 +1,27 @@
+# Headings
+<h1>, <h2>, <h3>, <h4>, <h5>, and <h6>. dont forget their closing tags i.e. </h1>, </h2> etc.
+
+# Paragraphs
+<p> </p>
+
+# Lists
+for unordered lists - <ul> </ul>
+for ordered lists - <ol> </ol>
+for list items - <li> </li>
+
+# Links
+anchor element - <a> </a>
+anchor element's recommended attribute - href="url link goes here"
+
+# Images
+image element - <img />
+recommended image element attribute - src="link to image source"
+another image element attribute - alt="provide alternative description of your image here"
+
+# Line Breaks
+<br/>
+
+# Comments
+<!-- Text goes here -->
+
+
